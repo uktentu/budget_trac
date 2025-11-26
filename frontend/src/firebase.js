@@ -3,12 +3,13 @@ import { getAuth } from "firebase/auth";
 
 // TODO: Replace with your actual Firebase configuration
 const firebaseConfig = {
-    apiKey: "YOUR_API_KEY",
-    authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-    projectId: "YOUR_PROJECT_ID",
-    storageBucket: "YOUR_PROJECT_ID.appspot.com",
-    messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-    appId: "YOUR_APP_ID"
+    apiKey: "AIzaSyDeprBvgDbZpAkpJSkvQHwcjTG4TK1Xl7k",
+    authDomain: "budget-trac-66f90.firebaseapp.com",
+    projectId: "budget-trac-66f90",
+    storageBucket: "budget-trac-66f90.firebasestorage.app",
+    messagingSenderId: "843832704446",
+    appId: "1:843832704446:web:8d45f92e7605796e9bcdef",
+    measurementId: "G-533TL9DX8F"
 };
 
 const app = initializeApp(firebaseConfig);
