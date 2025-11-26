@@ -22,3 +22,12 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Secrets
+backend/serviceAccountKey.json
+*.env
+.env
+.venv
+venv/
+__pycache__/
+*.py[cod]
