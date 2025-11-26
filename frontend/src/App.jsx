@@ -18,7 +18,7 @@ function App() {
     <AuthProvider>
       <ThemeProvider>
         <BudgetProvider>
-          <Router>
+          <Router basename="/budget_trac">
             <Routes>
               <Route path="/login" element={<Login />} />
               <Route path="/register" element={<Register />} />
