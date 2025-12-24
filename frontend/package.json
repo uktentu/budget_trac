@@ -1,8 +1,21 @@
 {
   "name": "budget_trac",
+  "description": "A modern personal finance management application for tracking expenses, setting budgets, and analyzing spending patterns with an intuitive React interface",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "author": "uktentu",
+  "keywords": [
+    "budget",
+    "finance",
+    "expense-tracker",
+    "personal-finance",
+    "money-management",
+    "budget-planner",
+    "react",
+    "vite",
+    "tailwindcss"
+  ],
   "scripts": {
     "dev": "vite",
     "build": "vite build",
